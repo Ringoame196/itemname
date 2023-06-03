@@ -1,0 +1,8 @@
+name: itemname
+version: '${project.version}'
+main: com.github.ringoame196.itemname.Itemname
+
+commands:
+  itemname:
+    description: 手持ちのアイテムの名前を変える
+    usage: /itemname <アイテムの名前>
